@@ -1,0 +1,1 @@
+#Use essa pasta para guardar documentos de especificação e de gerenciamento de projeto
